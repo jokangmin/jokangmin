@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=KangMin%20GitHub&fontSize=90)
 ![KangMin GitHub stats](https://github-readme-stats.vercel.app/api?username=jokangmin&show_icons=true&theme=radical&include_all_commits=true)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokangmin)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ![Programmers Badge](https://raw.githubusercontent.com/jokangmin/Programmers_Badge_Generator/main/result/result.svg)
