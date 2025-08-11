@@ -3,8 +3,9 @@
 <br>
 ![Programmers Badge](https://raw.githubusercontent.com/jokangmin/Programmers_Badge_Generator/main/result/result.svg)
 <br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jomin357)](https://velog.io/@jomin357/posts)
+<br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=jomin357)](https://velog.io/@jomin357/posts)
 ## 🛠️ Skill
 [![My Skills](https://skillicons.dev/icons?i=react,js,java,html,css,vscode,spring,mysql,nodejs,jquery,jenkins,postman,eclipse,docker,codepen,figma&perline=8)](https://skillicons.dev)
 <br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=jomin357)](https://velog.io/@jomin357/posts)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jomin357)]([https://github.com/eungyeole/velog-readme-stats](https://velog.io/@jomin357/프론트엔드-개발자의-필수-소양-SEO검색-엔진-최적화))
