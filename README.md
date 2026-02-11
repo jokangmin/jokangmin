@@ -6,5 +6,5 @@
 <br>
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=jomin357)](https://velog.io/@jomin357/posts)
 ## 🛠️ Skill
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,tailwindcss,nest,js,react,nodejs,html,aws,spring,mysql,postgresql,jenkins,postman,docker,figma,githubactions&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,tailwindcss,nest,js,react,nodejs,html,aws,spring,mysql,postgresql,jenkins,postman,docker,figma,java,githubactions&perline=8)](https://skillicons.dev)
 <br>
